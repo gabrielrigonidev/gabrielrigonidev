@@ -1,5 +1,5 @@
 # Olá, me chamo Gabriel! 
-## Bem vindo ao meu perfil GitHub 👋
+# Bem vindo ao meu perfil GitHub 👋
 
 Here are some ideas to get you started:
 
