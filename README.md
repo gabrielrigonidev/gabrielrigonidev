@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9703C9&height=120&section=header"/>
-# Olá, me chamo Gabriel! 
+# 
+Olá, me chamo Gabriel! 
 ## Bem vindo ao meu perfil GitHub 👋
 Linguagens e Tecnoligas que compreendo:
 
