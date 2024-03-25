@@ -14,9 +14,10 @@ Linguagens e Tecnoligas que compreendo:
   <img align="center" alt="ORACLE SQL DEVELOPER" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
 </div>
 <br>
-<div align="center"> 
-<a href="https://github.com/gabrielrigonidev"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/gabriel-rigoni-martins/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="center">
+  <h5>Outras redes que estou, vamos conversar!</h5>
+  <a href="https://github.com/gabrielrigonidev"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabriel-rigoni-martins/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <br>
 
@@ -41,7 +42,7 @@ Linguagens e Tecnoligas que compreendo:
 
 <div align="center">
 <h4> 🎓 FATEC - Desenvolvimento de Software Multiplataforma (2023 - 2026)</h4>
-<h4> 🎓 Técnico em Informática (2020 - 2022) </h4>
+<h4> 🎓 FORTEC - Técnico em Informática (2020 - 2022) </h4>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
