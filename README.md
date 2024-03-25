@@ -4,7 +4,7 @@ Linguagens e Tecnoligas que compreendo:
 
 <div align="center">
 <br>
-  <img lalign="center" alt="HTML" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="HTML" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
   <img align="center" alt="JAVASCRIPT" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="C-SHARP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />       
@@ -20,9 +20,8 @@ Linguagens e Tecnoligas que compreendo:
 
 <div align= "center">
   <a href="https://github.com/gabrielrigonidev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrigonidev&show_icons=true&theme=radical"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrigonidev&layout=compact&theme=radical"/>
-  <img src="https://streak-stats.demolab.com?user=gabrielrigonidev&_border=true&theme=dark&hide_border=true&theme=radical" style="width: 85%" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielrigonidev&show_icons=true&theme=radical"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrigonidev&layout=compact&theme=radical"/>
 </div>
 
 
