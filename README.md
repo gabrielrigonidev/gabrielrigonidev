@@ -6,8 +6,13 @@
 
 <div align="center">
 <br>
-  <img align="center" src="https://skillicons.dev/icons?i=java,spring,py,django,angular,kotlin,postgres,mongodb">
+  <img align="center" src="https://skillicons.dev/icons?i=java,spring,angular,py,django,kotlin">
 </div>
+<br>
+<div align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws&theme=light">
+</div>
+
 <div align="center">
   <h5>Outras redes que estou, vamos conversar!</h5>
   <a href="https://github.com/gabrielrigonidev"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
