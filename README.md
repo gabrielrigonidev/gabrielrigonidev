@@ -2,8 +2,9 @@
 
 # Olá, me chamo Gabriel! 
 
-## Bem vindo ao meu perfil Github 👋
+## Sou um Desenvolvedor Fullstack 👋
 
+### 🚀 Tecnologias e Áreas de Interesse  
 <div align="center">
 <br>
   <img align="center" src="https://skillicons.dev/icons?i=java,spring,angular,py,django,kotlin">
@@ -15,8 +16,9 @@
 
 <div align="center">
   <h5>Outras redes que estou, vamos conversar!</h5>
-  <a href="https://github.com/gabrielrigonidev"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/gabriel-rigoni-martins/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/victorgadelha/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+  </a>
 </div>
 <br>
 
