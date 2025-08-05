@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9703C9&height=120&section=header"/>
 
-# Olá, me chamo Gabriel! 
+---
+## 🌟 **Sobre Mim**
 
-## Sou um Desenvolvedor Fullstack 👋
+Desenvolvedor com experiência em desenvolvimento web e backend, especializado em tecnologias como **Java**, **C#**, **Python**, **Spring Boot**, e bancos de dados relacionais e não relacionais (**MySQL**, **Postgres**, **MongoDB**). Domínio em **APIs RESTful**, metodologias ágeis e ferramentas como **Git** e **Firebase**
 
-### 🚀 Tecnologias e Áreas de Interesse  
+## 🛠️ **Habilidades Técnicas**
 <div align="center">
 <br>
   <img align="center" src="https://skillicons.dev/icons?i=java,spring,angular,py,django,kotlin">
